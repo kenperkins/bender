@@ -21,7 +21,8 @@
         "winston": "0.6.2",
         "date-utils": "1.2.x",
         "ssh2": "0.1.8",
-        "iptables":"0.0.4"
+        "iptables":"0.0.4",
+        "colors": "*"
     },
     "devDependencies": {
         "mocha": "1.6.x",
