@@ -23,7 +23,7 @@
         "ssh2": "0.1.8",
         "iptables":"0.0.4",
         "colors": "*",
-        "scp": "0.0.2"
+        "scp": "https://github.com/ecto/node-scp/tarball/master"
     },
     "devDependencies": {
         "mocha": "1.6.x",
