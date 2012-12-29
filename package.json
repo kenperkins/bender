@@ -22,7 +22,8 @@
         "date-utils": "1.2.x",
         "ssh2": "0.1.8",
         "iptables":"0.0.4",
-        "colors": "*"
+        "colors": "*",
+        "scp": "0.0.2"
     },
     "devDependencies": {
         "mocha": "1.6.x",
