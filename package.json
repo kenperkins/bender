@@ -1,7 +1,7 @@
 {
     "name": "bender",
     "description": "A server and service management app",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "license": "MIT",
     "author": "Clipboard, Inc. <support@clipboard.com>",
     "maintainers": [
