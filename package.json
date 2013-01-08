@@ -13,7 +13,7 @@
     "repository": "",
     "dependencies": {
         "pkginfo": "0.2.x",
-        "rackspace-openstack": "0.0.7",
+        "rackspace-openstack": "https://github.com/clipboard/rackspace-openstack/tarball/master",
         "underscore": "1.4.x",
         "async": "0.1.22",
         "commander": "1.1.1",
