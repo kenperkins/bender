@@ -23,7 +23,8 @@
         "ssh2": "0.1.8",
         "iptables": "https://github.com/kenperkins/node-iptables/tarball/master",
         "colors": "*",
-        "scp": "https://github.com/ecto/node-scp/tarball/master"
+        "scp": "https://github.com/ecto/node-scp/tarball/master",
+        "ping": "0.1.1"
     },
     "devDependencies": {
         "mocha": "1.6.x",
