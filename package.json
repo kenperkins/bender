@@ -25,7 +25,8 @@
         "colors": "*",
         "scp": "https://github.com/ecto/node-scp/tarball/master",
         "ping": "0.1.1",
-        "easy-table": "0.2.0"
+        "easy-table": "0.2.0",
+        "rsync": "0.0.1"
     },
     "devDependencies": {
         "mocha": "1.6.x",
