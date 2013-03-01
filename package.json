@@ -21,7 +21,7 @@
         "winston": "0.6.2",
         "date-utils": "1.2.x",
         "ssh2": "0.1.8",
-        "iptables": "https://github.com/kenperkins/node-iptables/tarball/master",
+        "iptables-tx": "https://github.com/clipboard/iptables-tx/tarball/master",
         "colors": "*",
         "scp": "https://github.com/ecto/node-scp/tarball/master",
         "ping": "0.1.1",
