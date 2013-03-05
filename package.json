@@ -26,7 +26,8 @@
         "scp": "https://github.com/ecto/node-scp/tarball/master",
         "ping": "0.1.1",
         "easy-table": "0.2.0",
-        "rsync": "0.0.1"
+        "rsync": "0.0.1",
+        "nginx-conf": "0.1.0"
     },
     "devDependencies": {
         "mocha": "1.6.x",
